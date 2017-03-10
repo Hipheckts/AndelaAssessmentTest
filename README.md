@@ -1,17 +1,15 @@
 # AndelaAssessmentTest
 An Android app to retrieve a list of Java Developers in Lagos using the Github API 
-<ul>Display the list of developers on a list. Each item on the list should have:
+<li>Display the list of developers on a list. Each item on the list should have:</li>
 <li>User’s profile image</li>
 <li>User’s GitHub username</li>
-</ul>
-<ul>Clicking each item on the list should show their profile details.</ul>
-<ul>The profile screen should contain:
+<li>Clicking each item on the list should show their profile details.</li>
+<li>The profile screen should contain:</li>
 <li>Username</li>
 <li>Profile photo</li>
 <li>Github profile URL</li>
 <li>Button to share their profile, and it should launch a share intent and the content of the share should be <i>“Check out this awesome developer @&lt;github username&gt;, &lt;github profile url&gt;.”</i> </li>
 <li>Clicking on the Github url should launch the browser and link to their Github page.</li>
-</ul>
 
 
 <b><center>Screenshots</center></b>
